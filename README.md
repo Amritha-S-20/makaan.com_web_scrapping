@@ -23,5 +23,3 @@ we are scrapping the real estate data from the website **makaan.com** for the li
 #### Data Sourse
 [makaan_Bangalore](https://www.makaan.com/bangalore-residential-property/buy-property-in-bangalore-city?page=)
 
-
-
